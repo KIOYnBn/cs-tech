@@ -1,7 +1,7 @@
 ---
 createdAt: 2026-11-27T03:52:56.035Z
 updatedAt: 2026-11-27T03:53:04.733Z
-lastViewedAt: 2026-11-27T03:53:05.125Z
+lastViewedAt: 2026-11-27T07:07:23.320Z
 ---
 # C++
 

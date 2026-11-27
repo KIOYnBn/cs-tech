@@ -1,7 +1,8 @@
 ---
 createdAt: 2026-11-27T03:52:24.687Z
-updatedAt: 2026-11-27T03:52:33.292Z
-lastViewedAt: 2026-11-27T03:52:33.693Z
+updatedAt: 2026-11-27T07:05:47.286Z
+lastViewedAt: 2026-11-27T07:05:23.749Z
+field: Linux
 ---
 # Linux
 
