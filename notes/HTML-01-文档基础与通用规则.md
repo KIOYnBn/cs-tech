@@ -1,8 +1,8 @@
 ---
 createdAt: 2026-11-27T03:20:57.607Z
-updatedAt: 2026-11-27T03:25:38.737Z
+updatedAt: 2026-11-27T06:08:46.632Z
 lastViewedAt: 2026-11-27T03:27:10.012Z
-field: web开发前端
+field: web开发前端/HTML
 ---
 # HTML-01-文档基础与通用规则
 

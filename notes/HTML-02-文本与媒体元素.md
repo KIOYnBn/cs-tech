@@ -1,8 +1,8 @@
 ---
 createdAt: 2026-11-27T03:20:57.654Z
-updatedAt: 2026-11-27T03:25:21.550Z
+updatedAt: 2026-11-27T06:08:53.041Z
 lastViewedAt: 2026-11-27T03:26:58.887Z
-field: web开发前端
+field: web开发前端/HTML
 ---
 # HTML-02-文本与媒体元素
 ## 一、文本元素

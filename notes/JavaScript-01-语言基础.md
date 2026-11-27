@@ -1,8 +1,8 @@
 ---
 createdAt: 2026-11-27T03:21:07.735Z
-updatedAt: 2026-11-27T03:26:54.825Z
+updatedAt: 2026-11-27T06:08:18.413Z
 lastViewedAt: 2026-11-27T03:28:05.085Z
-field: web开发前端
+field: web开发前端/JavaScript
 ---
 # JavaScript-01-语言基础
 

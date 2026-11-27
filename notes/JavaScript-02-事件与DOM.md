@@ -1,8 +1,8 @@
 ---
 createdAt: 2026-11-27T03:21:07.831Z
-updatedAt: 2026-11-27T03:26:38.835Z
+updatedAt: 2026-11-27T06:08:28.734Z
 lastViewedAt: 2026-11-27T03:27:47.932Z
-field: web开发前端
+field: web开发前端/JavaScript
 ---
 # JavaScript-02-事件与DOM
 

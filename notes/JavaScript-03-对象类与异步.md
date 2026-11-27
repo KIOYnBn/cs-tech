@@ -1,8 +1,8 @@
 ---
 createdAt: 2026-11-27T03:21:07.928Z
-updatedAt: 2026-11-27T03:26:23.474Z
+updatedAt: 2026-11-27T06:08:41.703Z
 lastViewedAt: 2026-11-27T03:27:27.213Z
-field: web开发前端
+field: web开发前端/JavaScript
 ---
 # JavaScript-03-对象类与异步
 

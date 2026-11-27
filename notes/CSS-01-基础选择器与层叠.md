@@ -1,8 +1,8 @@
 ---
 createdAt: 2026-11-27T03:20:57.767Z
-updatedAt: 2026-11-27T03:27:37.171Z
+updatedAt: 2026-11-27T06:07:53.211Z
 lastViewedAt: 2026-11-27T03:27:33.298Z
-field: web开发前端
+field: web开发前端/CSS
 ---
 # CSS-01-基础选择器与层叠
 

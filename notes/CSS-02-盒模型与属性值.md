@@ -1,8 +1,8 @@
 ---
 createdAt: 2026-11-27T03:20:57.834Z
-updatedAt: 2026-11-27T03:27:26.307Z
+updatedAt: 2026-11-27T06:07:58.947Z
 lastViewedAt: 2026-11-27T03:27:22.432Z
-field: web开发前端
+field: web开发前端/CSS
 ---
 # CSS-02-盒模型与属性值
 
